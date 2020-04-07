@@ -1,0 +1,2 @@
+rootProject.name='Heart Tower'
+include ':app'
